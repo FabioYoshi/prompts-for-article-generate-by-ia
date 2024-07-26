@@ -26,8 +26,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines sobre o assunto: Como criar jogos com Godot                                                                                                                                                                                                    |
+| conteúdo | Faça um texto para ebook , com foco em godot, listando os principais tópicos necessarios para a criação de um jogo com exemplos em código {REGRAS} Explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
 
 
 Lexica.art：
